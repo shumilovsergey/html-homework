@@ -1,12 +1,1 @@
 https://www.youtube.com/watch?v=UALn3klXFBM
-
-
-
-
-(графики)
-https://cdnjs.com/limraries/apexcharts
-
-(документация)
-apexcharts.com/docs
-
-apexcharts.com/javascript-chart-demos/
