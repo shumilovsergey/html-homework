@@ -1,1 +1,20 @@
 https://www.youtube.com/watch?v=UALn3klXFBM
+
+[live server] Vscode
+
+
+
+(иконки)
+https://developers.google.com/fonts/docs/material_icons     
+
+(шрифт - Montserrat  100/900)
+https://fonts.google.com/
+
+
+(графики)
+(установка)
+https://cdnjs.com/libraries/apexcharts/3.35.3
+(док)
+https://apexcharts.com/docs/    
+(док)
+https://apexcharts.com/javascript-chart-demos/  
