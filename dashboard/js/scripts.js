@@ -66,7 +66,7 @@ var options = {
   }
 };
 
-  var barChart = new ApexCharts(document.querySelector("#bar-chart"), options);
-  barChart.render();
+var barChart = new ApexCharts(document.querySelector("#bar-chart"), options);
+barChart.render();
 
 
